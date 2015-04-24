@@ -1,6 +1,6 @@
 # restbasic
 
-Simple Hello world Rest Service using gradle - jetty - jax-rs - Jboss resteasy
+Simple Hello world Rest Service using gradle - jetty - jax-rs - resteasy
 
 Min Requirement:
 
