@@ -22,7 +22,7 @@ public class TestBasic
 	{
 		try
 		{
-			HttpGet httpGet = new HttpGet("/RestBasic/hello");
+			HttpGet httpGet = new HttpGet("/restbasic/hello");
 			httpGet.addHeader("Content-Type", MediaType.TEXT_PLAIN);
 			HttpClient httpClient = new DefaultHttpClient();
 			HttpResponse httpResponse = httpClient.execute(new HttpHost("localhost", 8080), httpGet);

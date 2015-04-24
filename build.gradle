@@ -33,3 +33,7 @@ jettyRunWar.stopPort = 8090
 jettyRunWar.stopKey = 'stopKey'
 jettyStop.stopPort = 8090
 jettyStop.stopKey = 'stopKey'
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '2.0'
+}
