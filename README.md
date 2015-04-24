@@ -12,10 +12,11 @@ git clone [clone_url]
 
 cd restbasic
 
+````
 ./gradlew clean build -x test
 
 ./gradlew jettyRunWar
-
+````
 In another tab,
 
 ./gradlew test
