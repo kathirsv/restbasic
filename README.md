@@ -6,7 +6,7 @@ Download restbasic
 
 git clone [clone_url]
 
-cd ~/restbasic
+cd restbasic
 
 ./gradlew clean build -x test
 
