@@ -5,7 +5,7 @@ Simple Hello world Rest Service using gradle - jetty - jax-rs - apache http clie
 Min Requirement:
 
 * Java 1.7
-* Port 8080 to be free on the machine, where this is run
+* Ports 8080,8090 to be free on the machine, where this is run
 
 ````
 git clone [clone_url]
