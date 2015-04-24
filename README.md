@@ -17,9 +17,9 @@ cd restbasic
 In another tab,
 
 ````
-./gradlew test
-
 cd restbasic
+
+./gradlew test
 
 ./gradlew jettyStop
 ````
