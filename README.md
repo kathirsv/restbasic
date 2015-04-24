@@ -19,5 +19,7 @@ In another tab,
 ````
 ./gradlew test
 
+cd restbasic
+
 ./gradlew jettyStop
 ````
