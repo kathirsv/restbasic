@@ -14,6 +14,7 @@ cd restbasic
 
 ./gradlew jettyRunWar
 ````
+To Test 
 ````
 http://localhost:8080/restbasic/hello
 ````
