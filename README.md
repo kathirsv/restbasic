@@ -4,7 +4,7 @@ Simple Hello world Rest Service using gradle - jetty - jax-rs - apache http clie
 
 Download restbasic
 
-git clone [this_url]
+git clone [clone_url]
 
 cd ~/restbasic
 
