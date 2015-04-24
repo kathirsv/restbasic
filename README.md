@@ -8,7 +8,7 @@ Min Requirement:
 * Ports 8080,8090 to be free on the machine, where this is run
 
 ````
-git clone [clone_url]
+git clone https://github.com/kathirsv/restbasic.git
 
 cd restbasic
 
