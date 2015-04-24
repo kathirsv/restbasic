@@ -14,8 +14,10 @@ cd restbasic
 
 ./gradlew jettyRunWar
 ````
-In another tab,
-
+````
+http://localhost:8080/restbasic/hello
+````
+Or in another tab,
 ````
 cd restbasic
 
