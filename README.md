@@ -2,6 +2,10 @@
 
 Simple Hello world Rest Service using gradle - jetty - jax-rs - apache http client (test)
 
+Min Requirement:
+
+Java 1.7
+
 Download restbasic
 
 git clone [clone_url]
