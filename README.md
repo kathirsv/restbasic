@@ -4,7 +4,8 @@ Simple Hello world Rest Service using gradle - jetty - jax-rs - apache http clie
 
 Min Requirement:
 
-Java 1.7
+* Java 1.7
+* Port 8080 to be free on the machine, where this is run
 
 Download restbasic
 
