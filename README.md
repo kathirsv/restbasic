@@ -19,7 +19,8 @@ cd restbasic
 ````
 In another tab,
 
+````
 ./gradlew test
 
 ./gradlew jettyStop
-
+````
