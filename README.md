@@ -5,6 +5,7 @@ Simple Hello world Rest Service using gradle - jetty - jax-rs - resteasy
 Min Requirement:
 
 * Java 1.7
+
 * Ports 8080,8090 to be free on the machine, where this is run
 
 ````
