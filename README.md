@@ -11,9 +11,12 @@ Min Requirement:
 ````
 git clone https://github.com/kathirsv/restbasic.git
 
+If you don't have git, download the project as zip file and unzip the file, rename restbasic-master to restbasic
+
 cd restbasic
 
 ./gradlew jettyRunWar
+
 ````
 To Test 
 ````
