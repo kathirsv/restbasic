@@ -11,7 +11,8 @@ Min Requirement:
 ````
 git clone https://github.com/kathirsv/restbasic.git
 
-If you don't have git, download the project as zip file and unzip the file, rename restbasic-master to restbasic
+If you don't have git, download the project as zip file, unzip and 
+rename restbasic-master to restbasic
 
 cd restbasic
 
